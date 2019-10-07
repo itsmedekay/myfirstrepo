@@ -1,0 +1,23 @@
+{
+  "name": "Node_Project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pep-DEV101/Node-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pep-DEV101/Node-Project/issues"
+  },
+  "homepage": "https://github.com/Pep-DEV101/Node-Project#readme",
+  "description": ""
+}
